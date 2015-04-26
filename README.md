@@ -10,7 +10,11 @@ groupedmeansdataset.txt
 
 :    The dataset produced in the course project for the Coursera course "Getting and Cleaning the Data"
 
-run_analysis.R
+CodeBook.md
+
+:    The code book for this dataset
+
+xrun_analysis.R
 
 :    The script containing the R code to create the dataset
 
