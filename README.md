@@ -6,21 +6,21 @@ output: html_document
 ---
 ## Contents of this repository
 
-groupedmeansdataset.txt
+**groupedmeansdataset.txt**
 
-:    The dataset produced in the course project for the Coursera course "Getting and Cleaning the Data"
+The dataset produced in the course project for the Coursera course "Getting and Cleaning the Data"
 
-CodeBook.md
+**CodeBook.md**
 
-:    The code book for this dataset
+The code book for this dataset
 
-xrun_analysis.R
+**run_analysis.R**
 
-:    The script containing the R code to create the dataset
+The script containing the R code to create the dataset
 
-README.md
+**README.md**
 
-:    This file
+This file
 
 
 ## Description of the run_analysis.R script
